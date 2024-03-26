@@ -65,7 +65,7 @@ a(:,:,1)=a(:,:,1)-Contrasttemp;
 Contrasttemp2 = medfilt2(a(:,:,2),[100 100]);
 a(:,:,2)=a(:,:,2)-Contrasttemp2;
 
-perkfiltRED=a;
+perkfiltGREEN=a;
 
 %% Setting threshold
 [d1,d2]=size(a(:,:,1));
@@ -74,7 +74,7 @@ y = prctile(zvector,threshold_percentile); %%%%%%%%%%%% CTB Threshold
 ctb_threshold = im2double(y);
 
 % We have a threshold
-[r]=selectcells(a(:,:,2), ctb_threshold, cell_size);
+[r]=selectcells(a(:,:,2), ctb_threshold, cell_size); %changed cell selection to identify green not red
 
 xystruct=[];
 
@@ -103,6 +103,7 @@ folder_name2=folder_name(max(strfind(folder_name,'\')):end)
 concat_str=strcat(fullfile(CTBfilefolder), folder_name2)
 saveas(gcf,sprintf('%s.png', concat_str))
 end
+
 
 
 

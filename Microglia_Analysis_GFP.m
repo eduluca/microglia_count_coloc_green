@@ -1,4 +1,4 @@
-% MicrogliaAnalysisCY5
+% MicrogliaAnalysisGFP
 
 clear all
 close all
@@ -103,6 +103,7 @@ folder_name2=folder_name(max(strfind(folder_name,'\')):end)
 concat_str=strcat(fullfile(CTBfilefolder), folder_name2)
 saveas(gcf,sprintf('%s.png', concat_str))
 end
+
 
 
 

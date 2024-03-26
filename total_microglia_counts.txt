@@ -1,0 +1,221 @@
+Microglia Counts
+
+1 of 84 done.
+Image: Iba-1_APOE4_R22_51_sect1_20x_1_Overlay
+Total Binary Microglia Count: 130
+2 of 84 done.
+Image: Iba-1_APOE4_R22_51_sect1_20x_2_Overlay
+Total Binary Microglia Count: 151
+3 of 84 done.
+Image: Iba-1_APOE4_R22_51_sect2_20x_1_Overlay
+Total Binary Microglia Count: 141
+4 of 84 done.
+Image: Iba-1_APOE4_R22_51_sect2_20x_2_Overlay
+Total Binary Microglia Count: 131
+5 of 84 done.
+Image: Iba-1_APOE4_R22_51_sect3_20x_1_Overlay
+Total Binary Microglia Count: 149
+6 of 84 done.
+Image: Iba-1_APOE4_R22_51_sect4_20x_1_Overlay
+Total Binary Microglia Count: 145
+7 of 84 done.
+Image: Iba-1_APOE4_R22_51_sect4_20x_2_Overlay
+Total Binary Microglia Count: 126
+8 of 84 done.
+Image: Iba-1_APOE4_R22_57_sect1_20x_1_Overlay
+Total Binary Microglia Count: 90
+9 of 84 done.
+Image: Iba-1_APOE4_R22_57_sect1_20x_2_Overlay
+Total Binary Microglia Count: 71
+10 of 84 done.
+Image: Iba-1_APOE4_R22_57_sect2_20x_1_Overlay
+Total Binary Microglia Count: 45
+11 of 84 done.
+Image: Iba-1_APOE4_R22_57_sect2_20x_2_Overlay
+Total Binary Microglia Count: 102
+12 of 84 done.
+Image: Iba-1_APOE4_R22_57_sect3_20x_1_Overlay
+Total Binary Microglia Count: 84
+13 of 84 done.
+Image: Iba-1_APOE4_R22_57_sect4_20x_1_Overlay
+Total Binary Microglia Count: 90
+14 of 84 done.
+Image: Iba-1_APOE4_R22_57_sect4_20x_2_Overlay
+Total Binary Microglia Count: 88
+15 of 84 done.
+Image: Iba-1_APOE4_R22_57_sect5_20x_1_Overlay
+Total Binary Microglia Count: 82
+16 of 84 done.
+Image: Iba-1_APOE4_R22_57_sect5_20x_2_Overlay
+Total Binary Microglia Count: 85
+17 of 84 done.
+Image: Iba-1_APOE4_R22_57_sect6_20x_1_Overlay
+Total Binary Microglia Count: 95
+18 of 84 done.
+Image: Iba-1_APOE4_R22_57_sect6_20x_2_Overlay
+Total Binary Microglia Count: 74
+19 of 84 done.
+Image: Iba-1_APOE4_R22_86_sect1_20x_1_Overlay
+Total Binary Microglia Count: 138
+20 of 84 done.
+Image: Iba-1_APOE4_R22_86_sect1_20x_2_Overlay
+Total Binary Microglia Count: 138
+21 of 84 done.
+Image: Iba-1_APOE4_R22_86_sect2_20x_1_Overlay
+Total Binary Microglia Count: 166
+22 of 84 done.
+Image: Iba-1_APOE4_R22_86_sect2_20x_2_Overlay
+Total Binary Microglia Count: 119
+23 of 84 done.
+Image: Iba-1_APOE4_R22_86_sect2_20x_2__Overlay
+Total Binary Microglia Count: 137
+24 of 84 done.
+Image: Iba-1_APOE4_R22_86_sect3_20x_2_Overlay
+Total Binary Microglia Count: 85
+25 of 84 done.
+Image: Iba-1_APOE4_R22_87_sect1_20x_1_Overlay
+Total Binary Microglia Count: 66
+26 of 84 done.
+Image: Iba-1_APOE4_R22_87_sect1_20x_2_Overlay
+Total Binary Microglia Count: 112
+27 of 84 done.
+Image: Iba-1_APOE4_R22_87_sect2_20x_1_Overlay
+Total Binary Microglia Count: 78
+28 of 84 done.
+Image: Iba-1_APOE4_R22_87_sect2_20x_2_Overlay
+Total Binary Microglia Count: 93
+29 of 84 done.
+Image: Iba-1_APOE4_R22_87_sect3_20x_1_Overlay
+Total Binary Microglia Count: 68
+30 of 84 done.
+Image: Iba-1_APOE4_R22_87_sect3_20x_2_Overlay
+Total Binary Microglia Count: 101
+31 of 84 done.
+Image: Iba-1_APOE4_R22_87_sect4_20x_1_Overlay
+Total Binary Microglia Count: 99
+32 of 84 done.
+Image: Iba-1_APOE4_R22_87_sect4_20x_2_Overlay
+Total Binary Microglia Count: 107
+33 of 84 done.
+Image: Iba-1_APOE4_R22_89_sect2_20x_1_Overlay
+Total Binary Microglia Count: 106
+34 of 84 done.
+Image: Iba-1_APOE4_R22_89_sect2_20x_2_Overlay
+Total Binary Microglia Count: 91
+35 of 84 done.
+Image: Iba-1_APOE4_R22_89_sect3_20x_1_Overlay
+Total Binary Microglia Count: 93
+36 of 84 done.
+Image: Iba-1_APOE4_R22_89_sect3_20x_2_Overlay
+Total Binary Microglia Count: 96
+37 of 84 done.
+Image: Iba-1_APOE4_R22_89_sect4_20x_1_Overlay
+Total Binary Microglia Count: 118
+38 of 84 done.
+Image: Iba-1_APOE4_R22_89_sect4_20x_2_Overlay
+Total Binary Microglia Count: 91
+39 of 84 done.
+Image: Iba-1_APOE4_R22_89_sect5_20x_1_Overlay
+Total Binary Microglia Count: 92
+40 of 84 done.
+Image: Iba-1_APOE4_R22_89_sect5_20x_2_Overlay
+Total Binary Microglia Count: 102
+41 of 84 done.
+Image: Iba-1_APOE4_R22_90_sect1_20x_1_Overlay
+Total Binary Microglia Count: 99
+42 of 84 done.
+Image: Iba-1_APOE4_R22_90_sect1_20x_2_Overlay
+Total Binary Microglia Count: 96
+43 of 84 done.
+Image: Iba-1_APOE4_R22_90_sect2_20x_1_Overlay
+Total Binary Microglia Count: 104
+44 of 84 done.
+Image: Iba-1_APOE4_R22_90_sect2_20x_2_Overlay
+Total Binary Microglia Count: 85
+45 of 84 done.
+Image: Iba-1_APOE4_R22_90_sect3_20x_1_Overlay
+Total Binary Microglia Count: 86
+46 of 84 done.
+Image: Iba-1_APOE4_R22_90_sect3_20x_2_Overlay
+Total Binary Microglia Count: 98
+47 of 84 done.
+Image: Iba-1_APOE4_R22_90_sect4_20x_1_Overlay
+Total Binary Microglia Count: 85
+48 of 84 done.
+Image: Iba-1_APOE4_R22_90_sect4_20x_2_Overlay
+Total Binary Microglia Count: 91
+49 of 84 done.
+Image: Iba-1_APOE4_R22_90_sect5_20x_1_Overlay
+Total Binary Microglia Count: 91
+50 of 84 done.
+Image: Iba-1_APOE4_R22_90_sect5_20x_2_Overlay
+Total Binary Microglia Count: 94
+51 of 84 done.
+Image: Iba-1_APOE4_R22_90_sect6_20x_1_Overlay
+Total Binary Microglia Count: 92
+52 of 84 done.
+Image: Iba-1_APOE4_R22_90_sect6_20x_2_Overlay
+Total Binary Microglia Count: 92
+53 of 84 done.
+Image: Iba-1_APOE4_R22_92_sect1_20x_1_Overlay
+Total Binary Microglia Count: 37
+54 of 84 done.
+Image: Iba-1_APOE4_R22_92_sect1_20x_2_Overlay
+Total Binary Microglia Count: 74
+55 of 84 done.
+Image: Iba-1_APOE4_R22_92_sect2_20x_1_Overlay
+Total Binary Microglia Count: 107
+56 of 84 done.
+Image: Iba-1_APOE4_R22_92_sect2_20x_2_Overlay
+Total Binary Microglia Count: 31
+57 of 84 done.
+Image: Iba-1_APOE4_R22_92_sect3_20x_1_Overlay
+Total Binary Microglia Count: 43
+58 of 84 done.
+Image: Iba-1_APOE4_R22_92_sect3_20x_2_Overlay
+Total Binary Microglia Count: 78
+59 of 84 done.
+Image: Iba-1_APOE4_R22_92_sect4_20x_2_Overlay
+Total Binary Microglia Count: 85
+60 of 84 done.
+Image: Iba-1_APOE4_R22_92_sect5_20x_1_Overlay
+Total Binary Microglia Count: 95
+61 of 84 done.
+Image: Iba-1_APOE4_R22_92_sect5_20x_2_Overlay
+Total Binary Microglia Count: 25
+62 of 84 done.
+Image: Iba-1_APOE4_R22_92_sect6_20x_1_Overlay
+Total Binary Microglia Count: 90
+63 of 84 done.
+Image: Iba-1_APOE4_R22_92_sect6_20x_2_Overlay
+Total Binary Microglia Count: 90
+64 of 84 done.
+Image: Iba-1_APOE4_R22_92_sect7_20x_2_Overlay
+Total Binary Microglia Count: 47
+65 of 84 done.
+Image: Iba-1_APOE4_R22_92_sect8_20x_1_Overlay
+Total Binary Microglia Count: 72
+66 of 84 done.
+Image: Iba-1_APOE4_R22_92_sect9_20x_1_Overlay
+Total Binary Microglia Count: 37
+67 of 84 done.
+Image: R21-144_Overlay
+Total Binary Microglia Count: 5
+68 of 84 done.
+Image: R21-144_Z001_Overlay
+Total Binary Microglia Count: 6
+69 of 84 done.
+
+
+
+
+
+83 of 85 done.
+Image: R21-144_Z016_Overlay
+Total Binary Microglia Count: 8
+84 of 85 done.
+Image: R21-144_Z017_Overlay
+Total Binary Microglia Count: 7
+85 of 85 done.
+Image: R21-151_Overlay
+Total Binary Microglia Count: 5

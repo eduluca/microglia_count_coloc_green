@@ -1,0 +1,101 @@
+Microglia Counts
+
+3 of 35 done.
+Image: R23-44_APOE3 LPS 1 Midactive1_Overlay
+Total Binary Microglia Count: 10
+4 of 35 done.
+Image: R23-44_APOE3 LPS 1 Midactive2_Overlay
+Total Binary Microglia Count: 20
+5 of 35 done.
+Image: R23-45_APOE3 LPS 1 Midactive1_Overlay
+Total Binary Microglia Count: 5
+6 of 35 done.
+Image: R23-45_APOE3 LPS 1 Midactive2_Overlay
+Total Binary Microglia Count: 9
+7 of 35 done.
+Image: R23-45_APOE3 LPS 1 Midactive3_Overlay
+Total Binary Microglia Count: 26
+8 of 35 done.
+Image: R23-45_APOE3 LPS 1 Midactive4_Overlay
+Total Binary Microglia Count: 7
+9 of 35 done.
+Image: R23-45_APOE3 LPS 1 Midactive5_Overlay
+Total Binary Microglia Count: 5
+10 of 35 done.
+Image: R23-46_APOE4 LPS 1 Midrest1_Overlay
+Total Binary Microglia Count: 22
+11 of 35 done.
+Image: R23-46_APOE4 LPS 1 Midrest2_Overlay
+Total Binary Microglia Count: 18
+12 of 35 done.
+Image: R23-46_APOE4 LPS 1 Midrest3_Overlay
+Total Binary Microglia Count: 20
+13 of 35 done.
+Image: R23-48_APOE4 LPS 1 Midrest1_Overlay
+Total Binary Microglia Count: 21
+14 of 35 done.
+Image: R23-48_APOE4 LPS 1 Midrest2_Overlay
+Total Binary Microglia Count: 16
+15 of 35 done.
+Image: R23-48_APOE4 LPS 1 Midrest3_Overlay
+Total Binary Microglia Count: 9
+16 of 35 done.
+Image: R23-48_APOE4 LPS 1 Midrest4_Overlay
+Total Binary Microglia Count: 9
+17 of 35 done.
+Image: R23-48_APOE4 LPS 1 Midrest5_Overlay
+Total Binary Microglia Count: 17
+18 of 35 done.
+Image: R23-48_APOE4 LPS 1 Midrest6_Overlay
+Total Binary Microglia Count: 14
+19 of 35 done.
+Image: R23-49_APOE3 LPS 1 Midrest1_Overlay
+Total Binary Microglia Count: 0
+20 of 35 done.
+Image: R23-49_APOE3 LPS 1 Midrest2_Overlay
+Total Binary Microglia Count: 13
+21 of 35 done.
+Image: R23-49_APOE3 LPS 1 Midrest3_Overlay
+Total Binary Microglia Count: 8
+22 of 35 done.
+Image: R23-49_APOE3 LPS 1 Midrest4_Overlay
+Total Binary Microglia Count: 3
+23 of 35 done.
+Image: R23-49_APOE3 LPS 1 Midrest5_Overlay
+Total Binary Microglia Count: 3
+24 of 35 done.
+Image: R23-49_APOE3 LPS 1 Midrest6_Overlay
+Total Binary Microglia Count: 1
+25 of 35 done.
+Image: R23-50_APOE4 LPS 1 Midactive1_Overlay
+Total Binary Microglia Count: 12
+26 of 35 done.
+Image: R23-50_APOE4 LPS 1 Midactive2_Overlay
+Total Binary Microglia Count: 9
+27 of 35 done.
+Image: R23-50_APOE4 LPS 1 Midactive3_Overlay
+Total Binary Microglia Count: 12
+28 of 35 done.
+Image: R23-50_APOE4 LPS 1 Midactive4_Overlay
+Total Binary Microglia Count: 12
+29 of 35 done.
+Image: R23-50_APOE4 LPS 1 Midactive5_Overlay
+Total Binary Microglia Count: 2
+30 of 35 done.
+Image: R23-51_APOE4 LPS 1 Midactive1_Overlay
+Total Binary Microglia Count: 19
+31 of 35 done.
+Image: R23-51_APOE4 LPS 1 Midactive2_Overlay
+Total Binary Microglia Count: 27
+32 of 35 done.
+Image: R23-51_APOE4 LPS 1 Midactive3_Overlay
+Total Binary Microglia Count: 16
+33 of 35 done.
+Image: R23-51_APOE4 LPS 1 Midactive4_Overlay
+Total Binary Microglia Count: 35
+34 of 35 done.
+Image: R23-51_APOE4 LPS 1 Midactive5_Overlay
+Total Binary Microglia Count: 12
+35 of 35 done.
+Image: R23-51_APOE4 LPS 1 Midactive6_Overlay
+Total Binary Microglia Count: 20

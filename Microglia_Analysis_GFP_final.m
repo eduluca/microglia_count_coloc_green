@@ -1,4 +1,4 @@
-% MicrogliaAnalysisGFP_final
+% MicrogliaAnalysisGFP_final_20x
 
 clear all
 close all
@@ -6,17 +6,17 @@ close all
 addpath(genpath('\\file.phhp.ufl.edu\data\home\edward.luca\Documents\GitHub\microglia_count_coloc'))
 rootfilefolder = 'C:\Users\edward.luca\Desktop\overlay_images_only_green';
 CTBfilefolder = 'C:\Users\edward.luca\Desktop\CTBfilefolder_Green';
-listing = dir(fullfile(rootfilefolder, '*.tif')); % List only tif files
+listing = dir(rootfilefolder); % List all files in the rootfilefolder
 
 % New image size 960 x 720 = 691200, 20x
 % Binning: 2x2 binning, so 0.37744 x 2 = 0.75488
 
 resolution = 0.75488; % microns/pixel
 r = 35; % radius in microns
-threshold_percentile = 99.0;
+threshold_percentile = 99.0; 
 cell_size = 200; % 600du
 
-for file_idx = 83:length(listing)
+for file_idx = 70:length(listing)
     currentfile = listing(file_idx);
     XXX = sprintf('%d of %d done.', file_idx, length(listing));
     disp(XXX)

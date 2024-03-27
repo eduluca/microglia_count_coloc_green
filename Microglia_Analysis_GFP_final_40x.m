@@ -1,31 +1,30 @@
-% MicrogliaAnalysisGFP_final
+% MicrogliaAnalysisGFP_final_40x
 
 clear all
 close all
 
 addpath(genpath('\\file.phhp.ufl.edu\data\home\edward.luca\Documents\GitHub\microglia_count_coloc'))
-rootfilefolder = fullfile('C:\Users\edward.luca\Desktop');
-CTBfilefolder = fullfile(rootfilefolder, 'CTBfilefolder_Green');
-listing=dir('"C:\Users\edward.luca\Desktop\overlay_images_only_green"
+rootfilefolder = 'C:\Users\edward.luca\Desktop\overlay_40x';
+CTBfilefolder = 'C:\Users\edward.luca\Desktop\CTBfilefolder_Green';
+listing = dir(rootfilefolder); % List all files in the rootfilefolder
 
+% New image size 40x
+% Binning: 2x2 binning, so 0.37744 x 2 = 0.75488 X 2 = 1.50976
 
-% New image size 960 x 720 = 691200, 20x
-% Binning: 2x2 binning, so 0.37744 x 2 = 0.75488
-
-resolution = 0.75488; % microns/pixel
+resolution = 1.50976; % microns/pixel
 r = 35; % radius in microns
-threshold_percentile = 99.0;
+threshold_percentile = 99.0; 
 cell_size = 200; % 600du
 
-for file_idx = 1:length(listing)
+for file_idx = 3:length(listing)
     currentfile = listing(file_idx);
     XXX = sprintf('%d of %d done.', file_idx, length(listing));
     disp(XXX)
 
     close all
-    clearvars -except resolution r pxl_radius rootfilefolder CTBfilefolder overlay_images_folder currentfile threshold_percentile cell_size
+    clearvars -except resolution r pxl_radius rootfilefolder CTBfilefolder listing currentfile threshold_percentile cell_size
 
-    currentimage = imread(fullfile(overlay_images_folder, currentfile.name));
+    currentimage = imread(fullfile(rootfilefolder, currentfile.name));
     a = currentimage;
 
     %% Changing from red to green 
